@@ -16,6 +16,7 @@ porcentual_validos, porcentual_brancos, porcentual_nulos:real
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc...
+
 //escreval("Digite o total dos votos:")
 //leia(total_eleitores)
 escreval("Digite os votos validos: ")

@@ -18,14 +18,18 @@ salario_total:real
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc...
-escreval("Digite a quantidade de carros vendidos:")
-leia(quantidade_carros)
-escreval("Digite o valor por carro vendido:")
-leia(comissao)
-escreval("Digite o valor total das vendas:")
-leia(valor_vendas)
 escreval("Digite o salario:")
 leia(salario)
+
+escreval("Digite o valor por carro vendido:")
+leia(comissao)
+
+escreval("Digite a quantidade de carros vendidos:")
+leia(quantidade_carros)
+
+escreval("Digite o valor total das vendas:")
+leia(valor_vendas)
+
 comissao_total <- comissao * quantidade_carros
 salario_total <- valor_vendas * 5/100 + salario + comissao_total
 escreval("O salario final foi de R$",salario_total)

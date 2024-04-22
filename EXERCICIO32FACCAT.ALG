@@ -6,8 +6,8 @@ Algoritmo "Exercicio32Faccat"
 //(para cada time). Escrever o nome do vencedor.
 //Caso não haja vencedor deverá ser impressa a palavra EMPATE.
 
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 09/04/2024
+// Autor(a)    : Enzzo D' Lucca
+// Data atual  : 05/04/2024
 Var
    // Seção de Declarações das variáveis
    nome1,nome2:caracter

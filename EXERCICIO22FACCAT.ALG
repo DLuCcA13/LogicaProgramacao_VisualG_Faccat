@@ -22,7 +22,7 @@ Inicio
    escreva("Digite a quantidade de horas trabalhadas no mês:")
    leia(horas_trabalhadas)
    se horas_trabalhadas > 160 entao
-      salario_total <- 160 * hora_salario + (horas_trabalhadas - 160) * (hora_salario + (hora_salario* 0.5))
+      salario_total <- 160 * hora_salario + (horas_trabalhadas - 160) * (hora_salario* 1.5)
       escreva("O salario do mes é de R$",salario_total)
    senao
       salario_total <- horas_trabalhadas * hora_salario

@@ -13,11 +13,19 @@ Var
 
 Inicio
    // Seção de Comandos, procedimento, funções, operadores, etc...
+
    escreval("Digite o valor da base:")
+   // leitura do valor da base
    leia(base)
+
    escreval("Digite o valor da altura:")
+   // leitura do valor da altura
    leia(altura)
+
+   // calculo da area
    area <- base * altura
+   
+   //saida dos dados
    escreval("a area de um retangulo de base,", base, "cm")
    escreval("de altura,", altura,"cm")
    escreva(" e " , area:2:2, "cm²")

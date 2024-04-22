@@ -1,9 +1,11 @@
-Algoritmo "semnome"
+Algoritmo "Exercicio29Faccat"
 // Disciplina   : Lógica de programação com JavaScript
 // Professor   : Jailson Costa dos Santos
+
 // Descrição   : Ler 3 valores e escrever a soma dos 2 maiores.
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 06/04/2024
+
+// Autor(a)    : Enzzo D' Lucca
+// Data atual  : 05/04/2024
 Var
    // Seção de Declarações das variáveis
    num1, num2,num3:real

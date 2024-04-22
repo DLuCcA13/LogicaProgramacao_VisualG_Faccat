@@ -7,8 +7,8 @@ Algoritmo "Exercicio31Faccat"
 //OBS: para formar um triângulo, o valor de cada lado deve ser menor que a
 //soma dos outros 2 lados.
 
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 09/04/2024
+// Autor(a)    : Enzzo D' Lucca
+// Data atual  : 05/04/2024
 Var
    // Seção de Declarações das variáveis
    n1,n2,n3:real

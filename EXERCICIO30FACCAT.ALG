@@ -2,8 +2,9 @@ Algoritmo "Exercicio30Faccat"
 // Disciplina   : Lógica de programação com JavaScript
 // Professor   : Jailson Costa dos Santos
 // Descrição   : Ler 3 valores e escrevê-los em ordem crescente
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 08/04/2024
+
+// Autor(a)    : Enzzo D' Lucca
+// Data atual  : 05/04/2024
 Var
    // Seção de Declarações das variáveis
    n1,n2,n3:real

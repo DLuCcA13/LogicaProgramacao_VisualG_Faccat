@@ -7,7 +7,7 @@ Algoritmo "Exercicio16Faccat"
 //leia o número de maçãs compradas, calcule e escreva o custo total da compra.
 
 // Autor(a)    : Enzzo D' Lucca
-// Data atual  : 15/04/2024
+// Data atual  : 05/04/2024
 Var
    // Seção de Declarações das variáveis
    quant_maca:inteiro

@@ -25,21 +25,21 @@ Inicio
    escreva("Digite a quantidade de Kg de Maca:")
    leia(maca)
    escreval("-------------------------------------------------")
-   se morango < 5 entao
+   se morango < 6 entao
       total_morango <- morango * 2.50
       escreval("O total a se pagar pelos Morangos e de R$",total_morango)
    senao
       total_morango <- morango * 2.20
       escreval("O total a se pagar pelos Morangos e de R$",total_morango)
    fimse
-   se maca < 5 entao
+   se maca < 6 entao
       total_maca <- maca * 1.80
       escreval("O total a se pagar pelas Macas e de R$",total_maca)
    senao
       total_maca <- maca * 1.50
       escreval("O total a se pagar pelas Macas e de R$",total_maca)
    fimse
-   total_kg <-  total_maca
+   total_kg <-  maca + morango
    total_venda <- total_morango +  total_maca
    escreval("-------------------------------------------------")
    se (total_kg > 8) ou (total_venda > 25) entao
