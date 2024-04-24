@@ -1,28 +1,28 @@
 Algoritmo "Exercicio35Faccat"
-// Disciplina   : LÛgica de programaÁ„o com JavaScript
+// Disciplina   : L√≥gica de programa√ß√£o com JavaScript
 // Professor   : Jailson Costa dos Santos
 
-// DescriÁ„o   : Escreva um algoritmo que leia o n˙mero de litros vendidos
-//e o tipo de combustÌvel (codificado da seguinte forma: A-·lcool, G-gasolina)
+// Descri√ß√£o   : Escreva um algoritmo que leia o n√∫mero de litros vendidos
+//e o tipo de combust√≠vel (codificado da seguinte forma: A-√°lcool, G-gasolina)
 //onde calcule e imprima o valor a ser pago pelo cliente sabendo-se que o
-//preÁo do litro da gasolina È R$ 3,30 e o preÁo do litro do ·lcool È R$ 2,90.
+//pre√ßo do litro da gasolina √© R$ 3,30 e o pre√ßo do litro do √°lcool √© R$ 2,90.
 //Obs:
-//¡lcool:
-//atÈ 20 litros, desconto de 3% por litro;
+//√Ålcool:
+//at√© 20 litros, desconto de 3% por litro;
 //acima de 20 litros, desconto de 5% por litro.
 //Gasolina:
-//atÈ 20 litros, desconto de 4% por litro;
+//at√© 20 litros, desconto de 4% por litro;
 //acima de 20 litros, desconto de 6% por litro.
 
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 09/04/2024
+// Autor(a)    : Enzzo D' Lucca
+// Data atual  : 05/04/2024
 Var
-   // SeÁ„o de DeclaraÁıes das vari·veis
+   // Se√ß√£o de Declara√ß√µes das vari√°veis
    combustivel:caracter
    litro,total:real
 Inicio
-   // SeÁ„o de Comandos, procedimento, funÁıes, operadores, etc...
-   escreval("Qual È o combustivel:")
+   // Se√ß√£o de Comandos, procedimento, fun√ß√µes, operadores, etc...
+   escreval("Qual √© o combustivel:")
    escreval("A - Alcool")
    escreval("G - Gasolina")
    leia(combustivel)
