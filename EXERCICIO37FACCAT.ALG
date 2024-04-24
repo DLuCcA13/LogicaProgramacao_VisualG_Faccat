@@ -1,25 +1,25 @@
 Algoritmo "Exercicio37Faccat"
-// Disciplina   : LÛgica de programaÁ„o com JavaScript
+// Disciplina   : L√≥gica de programa√ß√£o com JavaScript
 // Professor   : Jailson Costa dos Santos
 
-// DescriÁ„o   : Uma fruteira est· vendendo frutas com a seguinte tabela de
-//preÁos:
-//Morango -> atÈ 5kg: R$ 2,50 por Kg | acima de 5Kg: R$ 2,20 por Kg
-//MaÁ„  -> atÈ 5kg: R$ 1,80 por Kg | acima de 5Kg: R$ 1,50 por Kg
+// Descri√ß√£o   : Uma fruteira est√° vendendo frutas com a seguinte tabela de
+//pre√ßos:
+//Morango -> at√© 5kg: R$ 2,50 por Kg | acima de 5Kg: R$ 2,20 por Kg
+//Ma√ß√£  -> at√© 5kg: R$ 1,80 por Kg | acima de 5Kg: R$ 1,50 por Kg
 //Se o cliente comprar mais de 8 Kg em frutas ou o valor total da compra
-//ultrapassar R$ 25,00, receber· ainda um desconto de 10% sobre este total.
+//ultrapassar R$ 25,00, receber√° ainda um desconto de 10% sobre este total.
 //Escreva um algoritmo para ler a quantidade (em Kg) de morangos e a
-//quantidade (em Kg) de maÁas adquiridas e escreva o valor a ser
+//quantidade (em Kg) de ma√ßas adquiridas e escreva o valor a ser
 //pago pelo cliente.
 
 // Autor(a)    : Enzzo D' Lucca
-// Data atual  : 15/04/2024
+// Data atual  : 05/04/2024
 Var
-   // SeÁ„o de DeclaraÁıes das vari·veis
+   // Se√ß√£o de Declara√ß√µes das vari√°veis
    morango,maca,total_morango,total_maca,total_venda,total_kg:real
 
 Inicio
-   // SeÁ„o de Comandos, procedimento, funÁıes, operadores, etc...
+   // Se√ß√£o de Comandos, procedimento, fun√ß√µes, operadores, etc...
    escreva("Digite a quantidade de Kg de Morango:")
    leia(morango)
    escreva("Digite a quantidade de Kg de Maca:")
